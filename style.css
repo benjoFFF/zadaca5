@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(228, 222, 222);
+}
+
+p {
+    color: white;
+}
+
+.bg-pink, .btn-pink {
+    background-color: rgb(238, 84, 57);
+}
+
+.bg-orange {
+    background-color: rgb(252, 223, 57);
+}
+
+#nav2 {
+    border-radius: 20px 20px 0px 0px;
+}
+
+.navbar-nav li {
+    width: 200px;
+    border: 0;
+    border-right: 1px solid white;
+}
+
+.text-black {
+    color: black;
+}
+
+.container .jumbotron {
+    border-radius: 0;
+}
+
+.rt {
+    border-right: 1px solid grey;
+}
+
+
+.card {
+    height: 350px;
+    background-color: rgb(182, 179, 179);
+    border: 0;
+    border-radius: 0;
+    width: 357px;
+    margin-left: 10px;
+    margin-top: -15px;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+.all-white {
+    background-color: white;
+}
+
+.card-1 {
+    margin-left: 0;
+    justify-content: 
+}
+
+.text-grey {
+    color: grey;
+}
+
+.col-big div{
+    margin-left: 100px;
+}
+
+.bg-red {
+    background-color: rgb(219, 19, 19);
+}
+
